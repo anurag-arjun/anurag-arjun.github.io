@@ -63,7 +63,7 @@ url-pretty: "Home"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-56659049-3"
 
 # Fill in your IntenseDebate account details
 intensedebate: ac22461c994627324c7b85d64b893fa2
