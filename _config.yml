@@ -73,7 +73,7 @@ intensedebate: ac22461c994627324c7b85d64b893fa2
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: /:year-:month-:day-:title
 gems: [jekyll-paginate]
 paginate: 5
