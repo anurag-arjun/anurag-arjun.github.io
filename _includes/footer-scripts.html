@@ -1,4 +1,4 @@
-{% if page.common-ext-js %}
+<!--{% if page.common-ext-js %}
   {% for js in page.common-ext-js %}
 	<script src="{{ js }}"></script>
   {% endfor %}
@@ -20,6 +20,13 @@
   {% for js in page.js %}
 	<script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
   {% endfor %}
-{% endif %}
+{% endif %} -->
 
 {% include google_analytics.html %}
+
+
+	<script src="/js/jquery-1.11.2.min.js"></script>
+  
+	<script src="/js/bootstrap.min.js"></script>
+  
+	<script src="/js/main.js"></script>
