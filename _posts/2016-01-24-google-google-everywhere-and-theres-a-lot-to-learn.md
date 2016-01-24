@@ -50,4 +50,4 @@ To compete against Google is no mean endeavor. You will need to implement a simi
 
 Now I know why Google does what it does, and how. This year, please God, let this understanding influence my work :)
 
-And I have more to speak this week - attended a Meetup on Starting Up yesterday, and met some great people. Coming up in another post :)
+And I have more to speak this week - attended a Meetup on Startup India yesterday, and met some great people. Coming up in another post :)
