@@ -56,9 +56,9 @@ After reaching home, I was reflecting on the discussions - and I realized, every
 
 But your whole purpose on Earth is to realise your story. So get going, meet new people, get your story right...because there is nothing else worth achieving than telling your story right.
 
-“Aur picture toh abhi baaki hai dost…” (and the film still hasn’t ended, friend…)
-
-Get out the building, and meet new people!
+>“Aur picture toh abhi baaki hai dost…” (and the film still hasn’t ended, friend…)
+>
+>Get out the building, and meet new people!
 
 P.S. Steve Blank was the one who originally said - “Get out of the building” - He meant it for startups to get out and meet their customers (as opposed to sitting in a cubicle and dreaming up the product). I have just taken some creative liberty.
 
