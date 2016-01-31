@@ -11,3 +11,5 @@ Currently, I work at [IRIS Business Services](http://www.irisbusiness.com){:targ
 My personal projects in progress include <a href="http://beta.mylilac.in" target="_blank">Lilac - Pinterest for Shoppers</a> (currently in beta), with Deepa Anurag and <a href="https://www.linkedin.com/in/abhishek-rathi-601257b" target="_blank">Abhishek Rathi</a> as co-founders. Another project which I am helping on is <a href="http://www.schemopedia.org" target="_blank">Schemopedia</a> (POC stage), a venture focusing on enhancing broader citizen outreach for government benefits.
 
 I have 9+ years of product and project management experience, with a Bachelors degree in Computer Engineering from the Nirma Institute of Technology, Ahmedabad, batch of 2006. I am a technologist at heart, integration is what I absolutely love - taking practices from different apps or domains and applying them. I have basic coding chops, advanced product definition expertise, intermediate customer research and customer development skills.
+
+You can reach me at <a href="mailto:anurag.arjun@gmail.com">anurag.arjun@gmail.com</a>.
