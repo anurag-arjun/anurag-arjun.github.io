@@ -67,7 +67,7 @@ google_analytics: "UA-56659049-3"
 
 # Fill in your IntenseDebate account details
 intensedebate: ac22461c994627324c7b85d64b893fa2
-
+htmlcommentbox: y
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
